@@ -1,0 +1,21 @@
+[
+  {
+    "legajo": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "año": 2021
+  },
+  {
+    "legajo": 2,
+    "nombre": "Juan",
+    "apellido": "segundo",
+    "año": 2021
+  },
+  {
+    "legajo": 3,
+    "nombre": "Juan",
+    "apellido": "tercero",
+    "año": 2021
+  }
+
+]
